@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目工作规范（中文）"
+  short_description: "统一本项目的中文回答、PowerShell命令和工程执行规范"
+  default_prompt: "在本项目中执行任务时，严格遵循该技能中的交互、推理、PowerShell与编码规范。"
